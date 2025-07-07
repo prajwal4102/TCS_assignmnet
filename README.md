@@ -154,6 +154,6 @@ This chatbot is for informational purposes only and does not replace professiona
 ## 📬 Contact
 
 Built by **Prajwal**
-📧 Email: /pajwal4102@gmail.com
-🌐 LinkedIn: /https://www.linkedin.com/in/prajwal-a-c/
-📦 GitHub: /https://github.com/prajwal4102
+📧 Email: prajwal4102@gmail.com
+🌐 LinkedIn: https://www.linkedin.com/in/prajwal-a-c/
+📦 GitHub: https://github.com/prajwal4102
