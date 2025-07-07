@@ -1,0 +1,3 @@
+policy_id,customer_name,policy_type,coverage_amount,premium,renewal_date
+POL001,John Doe,Health,100000,500,01-12-2025
+POL002,Jane Smith,Auto,50000,300,15-11-2025
