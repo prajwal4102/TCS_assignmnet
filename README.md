@@ -10,7 +10,9 @@ This is a Python-based chatbot powered by Google's **Gemini API** and **LangChai
 .
 ├── main.py               # Main application script
 ├── insurance_policies.csv # CSV file containing policy data
+├── requirements.txt      # Required libraries
 └── README.md             # Project documentation
+
 ```
 
 ---
